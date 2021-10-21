@@ -1,4 +1,4 @@
-var contacts = [
+let contacts = [
     {
         name: "Maxim Lesy",
         telephone: "050 10 20 30",
@@ -22,7 +22,7 @@ var contacts = [
         }
     },
     {
-        name: "Mileto Di Parco",
+        name: "Mileto Di Marco",
         telephone: "050 90 80 70",
         email: "mileto.di.marco@howest.be",
         address: {
@@ -31,5 +31,17 @@ var contacts = [
             postalCode: 1000,
             city: "Brussel"
         }
+    },
+    {
+        name: "Peter Van Damme",
+        telephone: "050 10 11 45",
+        email: "peter.van.damme@howest.be",
+        address: {
+            street: "Sportstraat",
+            number: 78,
+            postalCode: 8000,
+            city: "Brugge"
+        }
     }
+
 ];

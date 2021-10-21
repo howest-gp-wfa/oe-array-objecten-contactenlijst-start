@@ -1,7 +1,7 @@
 "use strict";
 
-window.addEventListener("load", Initialize);
+window.addEventListener("load", initialize);
 
-function Initialize() {
+function initialize() {
 
 }
